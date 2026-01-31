@@ -6,6 +6,20 @@
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
       "thumbnail": "https://picsum.photos/id/1020/300/500",
       "duration": 71
+    },
+    {
+      "id": "vid_001",
+      "title": "Street Food in Cairo",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnail": "https://picsum.photos/id/1011/300/500",
+      "duration": 62
+    },
+    {
+      "id": "vid_002",
+      "title": "Morning Workout",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnail": "https://picsum.photos/id/1012/300/500",
+      "duration": 45
     }
   ],
   "meta": {

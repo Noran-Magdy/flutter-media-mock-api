@@ -35,6 +35,31 @@
       "title": "Evening Chill",
       "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
       "isLive": true
+    },
+    {
+      "id": "br_002",
+      "title": "Tech Podcast",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "isLive": false
+
+    },
+    {
+      "id": "br_002",
+      "title": "Tech Podcast",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "isLive": false
+    },
+    {
+      "id": "br_003",
+      "title": "Evening Chill",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "isLive": true
+    },
+    {
+      "id": "br_002",
+      "title": "Tech Podcast",
+      "audioUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "isLive": false
     }
   ]
 }
