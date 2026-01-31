@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": "vid_001",
+      "title": "Street Food in Cairo",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "thumbnail": "https://picsum.photos/id/1011/300/500",
+      "duration": 62
+    },
+    {
+      "id": "vid_002",
+      "title": "Morning Workout",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "thumbnail": "https://picsum.photos/id/1012/300/500",
+      "duration": 45
+    },
+    {
+      "id": "vid_003",
+      "title": "City Timelapse",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "thumbnail": "https://picsum.photos/id/1013/300/500",
+      "duration": 54
+    },
+    {
+      "id": "vid_004",
+      "title": "Coffee Break",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "thumbnail": "https://picsum.photos/id/1014/300/500",
+      "duration": 39
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "pageSize": 10,
+    "hasMore": true
+  }
+}

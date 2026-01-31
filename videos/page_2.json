@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "vid_011",
+      "title": "Flutter Tips & Tricks",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "thumbnail": "https://picsum.photos/id/1015/300/500",
+      "duration": 88
+    }
+  ],
+  "meta": {
+    "page": 2,
+    "pageSize": 10,
+    "hasMore": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "vid_031",
+      "title": "Night Walk Downtown",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "thumbnail": "https://picsum.photos/id/1020/300/500",
+      "duration": 71
+    }
+  ],
+  "meta": {
+    "page": 4,
+    "pageSize": 10,
+    "hasMore": false
+  }
+}
